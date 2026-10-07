@@ -9,7 +9,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.EdgeWebView2Runtime
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/tejas20/TokenFuel/releases/download/v0.2.0/TokenFuel_0.2.0_x64-portable.exe
+  InstallerUrl: https://github.com/tejas20/TokenFuel/releases/download/v0.2.0/TokenFuel.exe
   InstallerSha256: 719B93276A05809C866315CF04FB33B2A43E6FB61466516354EF48C75D4CEC1A
 ManifestType: installer
 ManifestVersion: 1.12.0
